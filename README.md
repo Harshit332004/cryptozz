@@ -10,7 +10,8 @@ Cryptozz is a virtual cryptocurrency portfolio tracker that lets you explore and
 ### 🔐 Authentication
 - **Google Sign-In**: Authenticate securely using your Google account.
 - **Anonymous Login**: Explore the app without creating an account.
-  ![onboard](https://github.com/user-attachments/assets/4db74302-ef6a-406a-8820-3751768c5ee1)
+
+![onboard_main](https://github.com/user-attachments/assets/5bc5ab89-8685-40dd-95e4-c4c4a35db814)
 
 
 ### 📈 Cryptocurrency Market
